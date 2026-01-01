@@ -733,6 +733,7 @@ void optimizedLinearSearch() {
 }
 
 
+
 void calculateTotalSales() {
     clearScreen();
     cout << "\n============================================================\n";
